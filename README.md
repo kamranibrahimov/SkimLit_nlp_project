@@ -1,1 +1,1 @@
-# SkimLit_nlp_project
+# SkimLit - NLP project
